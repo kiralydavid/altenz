@@ -1,0 +1,13 @@
+.shots {
+  display: flex;
+}
+
+.shot {
+  width: 50px;
+  height: 80px;
+  border: 1px solid black;
+}
+
+.active {
+  border: 1px solid red;
+}

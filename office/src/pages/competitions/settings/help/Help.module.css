@@ -1,0 +1,8 @@
+.Help {
+    position: absolute;
+    top: 0;
+    left: 710px;
+    border: 1px solid var(--mantine-color-gray-3);
+    width: 380px;
+    height: 100%;
+}
